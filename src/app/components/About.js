@@ -8,8 +8,8 @@ export default function About() {
           <Image
             src="/serena-blake.jpg"
             alt="Dr. Serena Blake headshot"
-            width={180}
-            height={180}
+            width={250}
+            height={300}
             className="rounded-xl shadow-lg object-cover border-4 border-blue-100"
           />
         </div>

@@ -8,8 +8,8 @@ export default function Hero() {
         <Image
           src="/serena-blake.jpg"
           alt="Dr. Serena Blake headshot"
-          width={120}
-          height={120}
+          width={180}
+          height={180}
           className="rounded-full border-4 border-white shadow-lg mb-6 object-cover"
           priority
         />
